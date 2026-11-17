@@ -1,0 +1,10 @@
+# secrets - never commit your API key
+.env
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+# packaging leftovers
+update_v*.zip
+.DS_Store
